@@ -1,0 +1,15 @@
+.header {
+  margin: auto;
+  padding: 10px 0;
+}
+
+h1 {
+  font-family: "Muli", "Times New Roman", Times, serif;
+  font-size: 5em;
+  font-weight: 500;
+  color: #fff;
+}
+h3 {
+  font-family: "Muli";
+  color: white;
+}
